@@ -1,6 +1,4 @@
 <?php
-
-<?php
 /*
 * This file will terminate bundle products  if customer product terminate from bundle order. 
 */
